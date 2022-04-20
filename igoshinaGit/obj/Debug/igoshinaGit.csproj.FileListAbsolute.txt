@@ -1,0 +1,7 @@
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\bin\Debug\igoshinaGit.exe.config
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\bin\Debug\igoshinaGit.exe
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\bin\Debug\igoshinaGit.pdb
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\obj\Debug\igoshinaGit.csprojAssemblyReference.cache
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\obj\Debug\igoshinaGit.csproj.CoreCompileInputs.cache
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\obj\Debug\igoshinaGit.exe
+C:\Users\Student.MYKMK\source\repos\igoshinaGit\obj\Debug\igoshinaGit.pdb
